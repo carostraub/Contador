@@ -1,0 +1,28 @@
+
+.container{
+  width: 450px;
+  height: auto;
+  display: flex;
+  font-size: 2rem;
+  color: white;
+  padding: 5px;
+  background-color: black;
+  border-radius: 10px;
+
+}
+.reloj {
+  font: size 5rem;
+  margin-right: 15px;
+}
+#reloj {
+  font: size 5rem;
+}
+.digit {
+  background: #333;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 2rem;
+  text-align: center;
+  width: 40px;
+}
